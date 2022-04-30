@@ -1,4 +1,5 @@
-module m3u8-Downloader-Go
+module github.com/geniusv/m3u8-downloader-go
+
 
 go 1.12
 
